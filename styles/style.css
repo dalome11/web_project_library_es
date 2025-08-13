@@ -87,6 +87,8 @@
 .staff {
   background-image: url("../images/staff_picks_background.jpg");
   padding: 100px 0 140px;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .staff__title {
