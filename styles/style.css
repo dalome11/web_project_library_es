@@ -355,10 +355,9 @@ ul {
 }
 
 .footer__column_content_social {
-  margin-top: 0;
-  margin-bottom: 20px;
+  font-size: small;
+  margin-left: 80px;
 }
-
 .footer__logo {
   width: 58px;
   height: 80px;
